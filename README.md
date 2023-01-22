@@ -1,2 +1,2 @@
 # GuessANumber
-First Project
+First Project - simple console game
